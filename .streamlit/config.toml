@@ -1,2 +1,2 @@
-[tool.poetry]
-install-options = ["--no-root"]
+[client]
+install_special_packages = false
